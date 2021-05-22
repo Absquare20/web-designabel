@@ -1,0 +1,2 @@
+// arrays arr = [15, 30, "Meher"] for(a in arr) document.write(arr[a], " "); document.write("<br>");
+document.write(arr.pop(), "<br>"); // remove last element arr.push("Krishna"); // add element to end document.write(arr.pop(), "<br>"); document.write("lenght of array: ", arr.length, "<br>");
